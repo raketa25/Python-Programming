@@ -83,5 +83,3 @@ if var_string not in message:
 else:
     print('I hope you liked your message!')
 
-print("\n")
-print("=============================== Loops in Python =============================== ")
