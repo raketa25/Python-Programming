@@ -16,11 +16,11 @@ It is a structured learning and engineering playground designed to:
 
 🧠 What You’ll Find Here
 
-✔️ Clean, well-structured Python code
-✔️ Progressive learning path (beginner → advanced)
-✔️ Real-world mini-projects
-✔️ Algorithmic thinking & problem-solving
-✔️ Foundations for AI & Data Science systems
+- ✔️ Clean, well-structured Python code
+- ✔️ Progressive learning path (beginner → advanced)
+- ✔️ Real-world mini-projects
+- ✔️ Algorithmic thinking & problem-solving
+- ✔️ Foundations for AI & Data Science systems
 
 # 🗂️ Repository Architecture
 
@@ -44,21 +44,22 @@ Prerequisites
 # Installation
 
 Clone the repository:
-git clone https://github.com/raketa25/Python-Programming.git
-cd Python-Programming
-python filename.py
+
+- git clone https://github.com/raketa25/Python-Programming.git
+- cd Python-Programming
+- python filename.py
 
 # Install dependencies:Bash
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 Explore the folders! Each directory contains examples and explanations.
 
 # Optional (but strongly recommended)
 
-python -m pyvenv venv
-source pyvenv/bin/activate # Linux / Mac
-pyvenv\Scripts\activate # Windows
+- python -m pyvenv venv
+- source pyvenv/bin/activate # Linux / Mac
+- pyvenv\Scripts\activate # Windows
 
 # 🎯 Learning Philosophy
 
@@ -68,9 +69,9 @@ Understand → Experiment → Break → Fix → Build
 
 Instead of passive learning, you:
 
-Modify code
-Create variations
-Build projects from scratch
+- Modify code
+- Create variations
+- Build projects from scratch
 
 # 📚 How to Use
 
@@ -85,10 +86,10 @@ Tip: Start with the fundamentals folders before moving to Projects portfolio and
 
 This repository is evolving toward:
 
-🤖 AI Engineering foundations
-📊 Data Science pipelines
-⚙️ Automation & backend systems
-🧠 Intelligent decision systems
+- 🤖 AI Engineering foundations
+- 📊 Data Science pipelines
+- ⚙️ Automation & backend systems
+- 🧠 Intelligent decision systems
 
 💡 This aligns with real-world industry needs:
 
@@ -150,9 +151,10 @@ I'm Pavel Azangue (raketa25), a passionate Python developer constantly improving
 Pavel Azangue
 AI Data Science Engineer
 
-🚀 Founder — 1717technologies Inc.
-🧠 AI | Data Science | Aerospace Systems
+- 🚀 Founder — 1717technologies Inc.
+- 🧠 AI | Data Science | Aerospace Systems
 
 Connect with me:
-GitHub: @raketa25
-LinkedIn: //www.linkedin.com/in/pavel-azangue-257b01254
+
+- GitHub: @raketa25
+- LinkedIn: //www.linkedin.com/in/pavel-azangue-257b01254
