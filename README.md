@@ -25,14 +25,14 @@ It is a structured learning and engineering playground designed to:
 # 🗂️ Repository Architecture
 
 Python-Programming/
-│
-├── 01_Basics/
-├── 02_Data_Structures/
-├── 03_Algorithms/
-├── 04_Problem_Solving/
-├── 05_Projects/
-├── 06_Data_Science_Foundations/
-└── README.md
+
+- 01_Basics/
+- 02_Data_Structures/
+- 03_Algorithms/
+- 04_Problem_Solving/
+- 05_Projects/
+- 06_Data_Science_Foundations/
+- README.md
 
 # 🚀 Getting Started
 
