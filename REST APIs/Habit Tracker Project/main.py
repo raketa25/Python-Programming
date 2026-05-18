@@ -1,3 +1,7 @@
+"""
+This simple project is a habit tracker that uses the Pixela API to create a graph of daily habits. The user can create an account, set up a graph, and then add daily data points to track their habits over time. The project also demonstrates how to update and delete data points using the API.
+"""
+
 import requests
 from datetime import datetime
 
@@ -51,3 +55,22 @@ pixel_data = {
 
 response3 = requests.post(url=pixel_creation_endpoint, json=pixel_data, headers=headers)
 print(response3.text)
+print("\n")
+
+# PUT Method
+pixela_update_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{Graph_ID}/{date}"
+
+update_data = {
+    "quantity": "5.99"
+}
+
+response = requests.put(url=pixela_update_endpoint, json=update_data, headers=headers)
+print(response.text)
+print("\n")
+
+# DELETE Method
+
+delete_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{Graph_ID}/{date}"
+
+response = requests.delete(url=delete_endpoint, headers=headers)
+print(response.text)
